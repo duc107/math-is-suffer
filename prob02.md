@@ -34,6 +34,7 @@ $$ A = \left(\frac{\sqrt{x}-9}{\sqrt{x}-1}\right) \colon \left(2 - \frac{\sqrt{x
 $$2 - \frac{\sqrt{x}}{\sqrt{x-1}} = \frac{2\sqrt{x}-2-\sqrt{x}}{\sqrt{x}-1}=\frac{\sqrt{x}-2}{\sqrt{x}-1} $$
 
 > Thay vào thôi
+
 $$ A = \left(\frac{\sqrt{x}-9}{\sqrt{x}-1}\right) \colon \left(\frac{\sqrt{x}-2}{\sqrt{x}-1}\right)  $$
 
 $$ A = \left(\frac{\sqrt{x}-9}{\sqrt{x}-1}\right) \cdot \left(\frac{\sqrt{x}-1}{\sqrt{x}-2}\right)  $$
