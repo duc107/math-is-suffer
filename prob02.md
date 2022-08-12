@@ -48,7 +48,7 @@ Ta có $A=-6$
 
 > Suy ra: 
 
-$$\frac{\sqrt{x}-9}{\sqrt{x}-2} = -6$$
+$$ \frac{\sqrt{x}-9}{\sqrt{x}-2} = -6 $$
 $$ \sqrt{x} - 9 = -6\sqrt{x}+12 $$
 $$ 7\sqrt{x} = 21 $$
 $$ \sqrt{x} = 3 $$
